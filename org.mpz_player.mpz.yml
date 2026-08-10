@@ -28,5 +28,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/olegantonyan/mpz.git
-        tag: 2.1.2
-        commit: 41e5532873e339d72dc12a5218c80869b499c426
+        tag: '2.1.3'
+        commit: 51d9284c7323dfce896e0f24278007846ea26807
